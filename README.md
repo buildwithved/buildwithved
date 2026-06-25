@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💡Computer Engineering Student | Data Science & Cyber Security Enthusiast
 -------------------------------------------------------------------------
 
-* * ✏️ Hello! I'm Vedant Gunjal, a Computer Engineering student from Pune, India.
+✏️ Hello! I'm Vedant Gunjal, a Computer Engineering student from Pune, India.
 
 I am passionate about Data Science, Cyber Security, and technology. I enjoy learning new tools, solving problems, and building projects that create real-world impact.
 
